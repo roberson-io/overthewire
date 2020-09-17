@@ -18,6 +18,6 @@ py -m venv venv
 pip install requests
 ```
 
-You may run into issues depending on how Python is installed in your environment. Check out the [Installing packages using pip and virtual environments](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment)
+You may run into issues depending on how Python is installed in your environment. Check out the [Installing packages using pip and virtual environments](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) guide.
 
 When you're finished with your virtual environment, deactivate with the `deactivate` command.
